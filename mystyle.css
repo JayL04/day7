@@ -1,0 +1,24 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#head1 {
+    font-weight: bold;
+    color: red;
+}
+#head2 {
+    font-weight: bold;
+    color: green;
+}
+#column1a {
+    background-color: lightgrey;
+}
+#column1b{
+    background-color: lightgreen;
+}
+#column2a {
+    background-color: lightgrey;
+}
+#column2b{
+    background-color: pink;
+}
