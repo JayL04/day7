@@ -10,14 +10,11 @@ table, th, td {
     font-weight: bold;
     color: green;
 }
-#column1a {
+#column1a,#column2a {
     background-color: lightgrey;
 }
 #column1b{
     background-color: lightgreen;
-}
-#column2a {
-    background-color: lightgrey;
 }
 #column2b{
     background-color: pink;
