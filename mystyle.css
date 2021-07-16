@@ -45,9 +45,9 @@ li {
     float: left;
 }
 img {
-    padding: 14px 16px;
+    padding: 14px, 16px;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
 header {font-size: 50px;}
   }
   
