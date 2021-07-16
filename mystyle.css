@@ -46,6 +46,7 @@ li {
 }
 img {
     padding: 14px, 16px;
+    width: 99.99%;
 }
 @media only screen and (max-width: 700px) {
 header {font-size: 50px;}
