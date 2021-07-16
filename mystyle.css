@@ -21,6 +21,10 @@ table, th, td {
     background-color: pink;
 }
 /*day 10*/
+header {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
 ul {
     list-style-type: none;
     margin: 0;
